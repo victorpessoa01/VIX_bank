@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\bin\Debug\net6.0\Aula_while.exe
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\bin\Debug\net6.0\Aula_while.deps.json
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\bin\Debug\net6.0\Aula_while.runtimeconfig.json
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\bin\Debug\net6.0\Aula_while.dll
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\bin\Debug\net6.0\Aula_while.pdb
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.dll
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\refint\Aula_while.dll
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.pdb
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\Aula_while.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Jose Victor\While_investimento\Aula_while\obj\Debug\net6.0\ref\Aula_while.dll
